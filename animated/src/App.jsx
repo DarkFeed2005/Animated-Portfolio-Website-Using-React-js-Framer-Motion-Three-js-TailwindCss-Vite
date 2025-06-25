@@ -1,7 +1,20 @@
+import React, { Suspense } from "react";
+import LoadingSpinner from "./components/LoadingSpinner";
+
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  )
+    <div className="bg-black min-h-screen">
+      <div className="relative z-10">
+        <Suspense
+          fallback={
+            <div className="flex justify-center items-center min-h-screen">
+              <LoadingSpinner />
+            </div>
+          }
+        >
+          <LoadingSpinner />
+        </Suspense>
+      </div>
+    </div>
+  );
 }
