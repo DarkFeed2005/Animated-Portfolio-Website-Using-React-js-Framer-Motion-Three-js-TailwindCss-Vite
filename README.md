@@ -20,7 +20,7 @@ This fully responsive portfolio website, built with React, styled using Tailwind
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Tailwind CSS, Framer Motion
+- **Frontend:** React, Tailwind CSS, Framer Motion, Three.js
 - **Deployment:** Vercel / Netlify (optional)
 - **Version Control:** Git & GitHub
 
@@ -33,10 +33,10 @@ This fully responsive portfolio website, built with React, styled using Tailwind
 Clone the repository and install dependencies:
 
 ```sh
-git clone 
+git clone https://github.com/DarkFeed2005/Animated-Portfolio-Website-Using-React-js-Framer-Motion-Three-js-TailwindCss-Vite.git
 ```
 ```bash
-cd portfolio-website
+cd Animated-Portfolio-Website-Using-React-js-Framer-Motion-Three-js-TailwindCss-Vite
 
 
 npm install
