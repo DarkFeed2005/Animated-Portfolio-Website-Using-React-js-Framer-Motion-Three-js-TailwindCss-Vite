@@ -37,7 +37,7 @@ git clone https://github.com/DarkFeed2005/Animated-Portfolio-Website-Using-React
 ```
 ```bash
 cd Animated-Portfolio-Website-Using-React-js-Framer-Motion-Three-js-TailwindCss-Vite
-
+```
 
 npm install
 
