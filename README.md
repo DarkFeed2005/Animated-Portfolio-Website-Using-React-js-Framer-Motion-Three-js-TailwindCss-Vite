@@ -40,7 +40,7 @@ cd Animated-Portfolio-Website-Using-React-js-Framer-Motion-Three-js-TailwindCss-
 ```
 ```
 npm install
-
+```
 
 npm run dev
 ```
